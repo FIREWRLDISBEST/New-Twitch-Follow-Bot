@@ -14,6 +14,8 @@ Excer twitch bot use modern slash commands and have cool desing.
 Discord follow bot need twitch tokens in special format that u can gen from excer aio.
 Excer aio is twitch tool with own captcha solver (it mean u dont need any captcha key to generate accounts / only datacenter proxies).
 Buy excer aio here [gg/excer](https://discord.gg/excer)
+Excer aio generate ~ 20/50 FREE acounts per min. 
+Don't waste any more money on captcha key and buy excer aio.
 
 ![image1](https://media.discordapp.net/attachments/1086656323837513769/1093585559227744367/image.png)
 
