@@ -3,6 +3,10 @@
 New twitch follow bot made by oxyn (excer team discord.gg/excer).
 
 ![image1](https://media.discordapp.net/attachments/1095666948446105662/1099457156991942877/image.png)
+
+Excer twitch bot use modern slash commands and have cool desing.
+
+
 ![image2](https://media.discordapp.net/attachments/1095666948446105662/1099457302400086086/image.png)
 
 ## How it work?
