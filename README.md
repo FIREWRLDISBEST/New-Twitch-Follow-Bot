@@ -1,8 +1,9 @@
 # NEW WORKING TWITCH FOLLOW BOT
 
 New twitch follow bot made by oxyn (excer team discord.gg/excer).
-![image1](https://media.discordapp.net/attachments/1095666948446105662/1099454688757293207/image.png)
-![image2](https://cdn.discordapp.com/attachments/1095666948446105662/1099456119816081629/image.png)
+
+![image1](https://media.discordapp.net/attachments/1095666948446105662/1099457156991942877/image.png)
+![image2](https://media.discordapp.net/attachments/1095666948446105662/1099457302400086086/image.png)
 
 ## How it work?
 
